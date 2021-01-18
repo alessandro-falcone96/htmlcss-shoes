@@ -20,11 +20,12 @@ section{
 }
 
 img{
-  width: 30vw;
+  width: 50vw;
 }
 h1{
   color: yellow;
   text-align: center;
+  font-size: 50px;
 }
 .speciale h1{
   color: green;
