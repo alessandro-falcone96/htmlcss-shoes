@@ -38,3 +38,24 @@ h1{
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+ul{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+li{
+  list-style: none;
+  display: inline;
+  border: 1px solid black;
+  border-radius: 100%;
+  color: black;
+  padding: 10px;
+  font-family: 'Rubik Mono One', sans-serif;
+  background-color: white;
+}
+
+li a{
+  text-decoration: none;
+  color: black;
+}
