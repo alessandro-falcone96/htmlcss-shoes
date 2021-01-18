@@ -37,12 +37,13 @@ h1{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  background-color: yellow;
 }
 
 ul{
   position: absolute;
-  top: 0;
-  right: 0;
+  top: -5vw;
+  right: -23vw;
 }
 li{
   list-style: none;
