@@ -12,6 +12,12 @@ section{
 #superga{
   background-color: red;
 }
+#hilfiger{
+  background-color: green;
+}
+#converse{
+  background-color: yellow;
+}
 
 img{
   width: 30vw;
@@ -19,6 +25,9 @@ img{
 h1{
   color: yellow;
   text-align: center;
+}
+.speciale h1{
+  color: green;
 }
 
 .container{
